@@ -51,9 +51,9 @@ document.addEventListener("keyup", function (e) {
 
 
 
+for (var t = 0; t < bands.length; t++)
 
-
- var bands = ["Huun Huur Tu", "The fighting jacks", "Amy Courts", "Goddamn Electric Bill", "High flight society"];
+var bands = ["Huun Huur Tu", "The fighting jacks", "Amy Courts", "Goddamn Electric Bill", "High flight society"];
 var vegetables = ["Carrots", "Kale", "Zucchini", "Broccoli", "Squash"];
 
 // The number of loops to perform (what if the array changes?)
